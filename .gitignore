@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Android
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+.gradle/
+build/
+captures/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Generated files
+bin/
+gen/
+out/
